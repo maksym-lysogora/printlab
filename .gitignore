@@ -1,0 +1,11 @@
+node_modules
+.env
+.vercel
+
+# робочі 3D-файли — не частина сайту
+In/
+Out/
+*.stl
+*.3mf
+*.blend
+*.blend1

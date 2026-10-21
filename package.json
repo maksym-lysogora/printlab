@@ -1,0 +1,9 @@
+{
+  "name": "printlab",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev-server.js"
+  },
+  "engines": { "node": ">=20" }
+}
